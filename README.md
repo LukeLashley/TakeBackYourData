@@ -110,36 +110,52 @@ These companies have an extreme amount of data on you. We could only build funct
 | TakeOut Folder                       | Supported | Plan to Support | Not Supported |
 | ------------------------------------ | --------- | --------------- | ------------- |
 | Android Device Configuration Service |           |                 |               |
+| Arts & Cultures                      |           |                 | X             |
 | Blogger                              |           |                 |               |
 | Calendar                             |           |                 |               |
 | Chrome                               |           |                 |               |
+| Classroom                            |           |                 | X             |
 | Cloud Print                          |           |                 |               |
 | Contacts                             |           |                 |               |
+| Crisis User Reports                  |           |                 | X             |
+| Data Shared for Research             |           |                 | X             |
 | Drive                                |           |                 | X             |
 | Fit                                  |           |                 |               |
 | Google Account                       |           |                 |               |
+| Google Cloud Search                  |           |                 | X             |
+| Google Help Communities              |           |                 | X             |
 | Google My Business                   |           |                 |               |
 | Google Pay                           |           |                 |               |
 | Google Photos                        |           |                 | X             |
+| Google Play Books                    |           |                 | X             |
 | Google Play Games Services           |           |                 |               |
 | Google Play Movies TV                |           |                 |               |
 | Google play Store                    |           |                 |               |
 | Google Shopping                      |           |                 |               |
 | Google Store                         |           |                 |               |
+| Google Translator Toolkit            |           |                 | X             |
 | Google Workspace Marketplace         |           |                 |               |
 | Groups                               |           |                 |               |
 | Hangouts                             |           |                 |               |
 | Home App                             |           |                 |               |
+| Keep                                 |           |                 | X             |
 | Location History                     |           |                 |               |
 | Mail                                 |           |                 | X             |
 | Maps                                 |           |                 |               |
 | Maps (your places)                   |           |                 |               |
 | My activity                          |           | X               |               |
+| My Maps                              |           |                 | X             |
 | News                                 |           |                 |               |
+| Pinpoint                             |           |                 | X             |
+| Posts on Google                      |           |                 | X             |
 | Profile                              |           |                 |               |
+| Purchases & Reservations             |           |                 | X             |
+| Question Hub                         |           |                 | X             |
 | Reminders                            |           |                 |               |
 | saved                                |           |                 |               |
+| Search Contributions                 |           |                 | X             |
 | Shopping Lists                       |           |                 |               |
+| Street View                          |           |                 | X             |
 | Tasks                                |           |                 |               |
 | Voice                                |           |                 |               |
 | Youtube and Youtube Music            |           |                 |               |
