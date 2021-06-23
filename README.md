@@ -26,7 +26,7 @@ npm start
 
 These companies have an extreme amount of data on you. We could only build functionality for some basic data. See the tables below and if you feel up to the challenge, please create a PR for a functionality.\
 [Facebook](###Facebook)\
-
+[Google](###Google)
 
 ### Facebook
 
@@ -105,6 +105,44 @@ These companies have an extreme amount of data on you. We could only build funct
 | your_problem_reports              | no-data.txt                                                        |           |                 | X        |
 | your_topics                       | your_topics.json                                                   |           | X               |          |
 
+### Google
+
+| TakeOut Folder                       | Supported | Plan to Support | Not Supported |
+| ------------------------------------ | --------- | --------------- | ------------- |
+| Android Device Configuration Service |           |                 |               |
+| Blogger                              |           |                 |               |
+| Calendar                             |           |                 |               |
+| Chrome                               |           |                 |               |
+| Cloud Print                          |           |                 |               |
+| Contacts                             |           |                 |               |
+| Drive                                |           |                 | X             |
+| Fit                                  |           |                 |               |
+| Google Account                       |           |                 |               |
+| Google My Business                   |           |                 |               |
+| Google Pay                           |           |                 |               |
+| Google Photos                        |           |                 | X             |
+| Google Play Games Services           |           |                 |               |
+| Google Play Movies TV                |           |                 |               |
+| Google play Store                    |           |                 |               |
+| Google Shopping                      |           |                 |               |
+| Google Store                         |           |                 |               |
+| Google Workspace Marketplace         |           |                 |               |
+| Groups                               |           |                 |               |
+| Hangouts                             |           |                 |               |
+| Home App                             |           |                 |               |
+| Location History                     |           |                 |               |
+| Mail                                 |           |                 | X             |
+| Maps                                 |           |                 |               |
+| Maps (your places)                   |           |                 |               |
+| My activity                          |           | X               |               |
+| News                                 |           |                 |               |
+| Profile                              |           |                 |               |
+| Reminders                            |           |                 |               |
+| saved                                |           |                 |               |
+| Shopping Lists                       |           |                 |               |
+| Tasks                                |           |                 |               |
+| Voice                                |           |                 |               |
+| Youtube and Youtube Music            |           |                 |               |
 
 ## Contributors
 
