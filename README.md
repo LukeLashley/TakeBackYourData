@@ -4,11 +4,6 @@ Take back your Data is a React website that is meant to give you a better unders
 ## Installation
 Install [Go](https://golang.org/dl/)
 
-Navigate to this repository and install mux
-```bash
-go get github.com/gorilla/mux
-```
-
 ## Usage
 
 To start the Go back-end:
