@@ -1,6 +1,7 @@
 package main
 
 import (
+	"TakeBackYourData/facebook"
 	"io"
 	"log"
 	"net/http"
@@ -9,6 +10,8 @@ import (
 func main() {
 	facebookHandler := func(w http.ResponseWriter, req *http.Request) {
 		io.WriteString(w, "TODO: Facebook Handler...")
+		variable := facebook.CreateData()
+		print(variable)
 	}
 
 	http.HandleFunc("/facebook", facebookHandler)

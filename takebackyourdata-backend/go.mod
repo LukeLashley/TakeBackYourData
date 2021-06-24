@@ -1,3 +1,3 @@
-module github.com/LukeLashley/TakeBackYourData
+module TakeBackYourData
 
 go 1.16
